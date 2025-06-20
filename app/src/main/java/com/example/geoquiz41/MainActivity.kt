@@ -1,6 +1,6 @@
 package com.example.geoquiz41
 
-package com.example.geoquiz1
+
 
 
 import android.os.Bundle
@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.geoquiz1.Question
+import com.example.geoquiz41.Question
 
 class MainActivity : AppCompatActivity() {
 

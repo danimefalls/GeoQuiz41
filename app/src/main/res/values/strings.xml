@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">GeoQuiz41</string>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="question_africa">Африка — самый большой континент.</string>
+    <string name="question_europe">В Европе больше стран, чем в Азии.</string>
+    <string name="question_berlin">Берлин — столица Германии.</string>
+    <string name="question_nile">Река Нил — самая длинная река в мире.</string>
+    <string name="question_moscow">Москва — самая северная столица в мире.</string>
+    <string name="question_brazil">Бразилия граничит с Аргентиной.</string>
+    <string name="question_australia">Австралия — это и страна, и континент.</string>
+    <string name="question_everest">Эверест находится в Гималаях.</string>
+    <string name="question_iceland">В Исландии больше вулканов, чем в Японии.</string>
+    <string name="question_canada">Канада — самая большая страна по площади.</string>
 </resources>
